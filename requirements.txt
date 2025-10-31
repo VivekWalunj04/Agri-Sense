@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+google-genai
+# IMPORTANT: Use the specific, stable version for googletrans
+googletrans==4.0.0-rc1 
+imbalanced-learn
