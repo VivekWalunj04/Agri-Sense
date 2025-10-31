@@ -1,6 +1,0 @@
-# .streamlit/packages.toml
-
-# Set the desired Python version. Python 3.11 is recommended
-# for compatibility with older libraries like googletrans.
-[tool.streamlit]
-python_version = "3.11"
