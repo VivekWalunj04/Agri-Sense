@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+google-genai
+googletrans==4.0.0-rc1 
+imbalanced-learn
